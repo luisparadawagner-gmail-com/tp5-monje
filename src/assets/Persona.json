@@ -1,0 +1,6 @@
+
+    [ 
+        {"nombre": "diego", "apellido": "perez", "edad": 50, "direccion":"laprida 123"},
+        {"nombre": "Juan", "apellido": "Muñoz", "edad": 20, "direccion":"calle falsa 123"},
+        {"nombre": "hernan", "apellido": "Lopez", "edad": 32, "direccion":"av siempre viva 492"}        
+    ]
